@@ -1,11 +1,11 @@
 ---
 id: '9'
-price: '400.00'
+price: ''
 title: ''
 description: ''
 default_original_image: images/plant9-lg.jpg
 featured: true
-order: 9
+order: 0
 category: src/pages/category/cactuses.md
 section: Store
 template: product
