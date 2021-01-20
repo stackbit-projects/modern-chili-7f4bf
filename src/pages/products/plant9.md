@@ -4,7 +4,7 @@ price: ''
 title: ''
 description: ''
 default_original_image: images/plant9-lg.jpg
-featured: true
+featured: false
 order: 0
 category: src/pages/category/cactuses.md
 section: Store
