@@ -1,7 +1,7 @@
 ---
 id: '9'
 price: '400.00'
-title: Fusce sagittis
+title: ''
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
 default_original_image: images/plant9-lg.jpg
 featured: true
