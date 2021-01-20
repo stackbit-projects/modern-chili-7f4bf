@@ -8,6 +8,7 @@ order: 2
 category: src/pages/category/cactuses.md
 section: Store
 template: product
+default_thumbnail_image: images/green-lettuce.jpg
 ---
 
 # Integer porta
