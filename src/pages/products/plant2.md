@@ -1,6 +1,6 @@
 ---
 id: '2'
-price: '99.00'
+price: ''
 title: ''
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_original_image: images/plant2-lg.jpg
