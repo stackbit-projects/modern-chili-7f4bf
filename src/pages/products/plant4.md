@@ -1,6 +1,6 @@
 ---
 id: '4'
-price: '24.99'
+price: ''
 title: ''
 description: Maecenas pretium blandit ex id lobortis.
 default_original_image: images/plant4-lg.jpg
